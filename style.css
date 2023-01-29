@@ -1,1 +1,9 @@
+body {
+    background-color:darkgoldenrod;
+}
 
+footer {
+    background-color: brick;
+    text-align: center
+    ;
+}
